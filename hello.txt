@@ -19,3 +19,5 @@ hello ax7z1! hello git! hot-fix test
 测试公钥
 测试公钥SSH连接成功， pull拉取成功
 测试push推送
+
+github项目更新...
