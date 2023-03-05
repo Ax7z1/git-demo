@@ -16,3 +16,4 @@ hello ax7z1! hello git! master test
 hello ax7z1! hello git! hot-fix test
 1111111111111111111111111111111111111
 22222222222222222222222222222 by lhc
+测试公钥
